@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="39918" started-at="2015-08-16T05:36:35Z" finished-at="2015-08-16T05:37:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="39918" started-at="2015-08-16T05:36:35Z" finished-at="2015-08-16T05:37:15Z">
+      <class name="com.Booking.Hotels.Test.TestAvailability">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.Booking.Hotels.Test.TestAvailability@1c2c22f3]" name="setup" is-config="true" duration-ms="34762" started-at="2015-08-16T01:36:35Z" finished-at="2015-08-16T01:37:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test_Month_Date_Nights_Selection()[pri:0, instance:com.Booking.Hotels.Test.TestAvailability@1c2c22f3]" name="test_Month_Date_Nights_Selection" duration-ms="5099" started-at="2015-08-16T01:37:10Z" finished-at="2015-08-16T01:37:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Month_Date_Nights_Selection -->
+      </class> <!-- com.Booking.Hotels.Test.TestAvailability -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
